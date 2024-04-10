@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBDY3LvjB9CDlVHV3CdmbMWXs45",
+    "object": "chat.completion",
+    "created": 1709445603,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 30,
+        "total_tokens": 521
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A person walks past a large fire on a street at night, with a silhouette of a bystander visible in the foreground. Smoke fills the background."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

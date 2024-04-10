@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBFwv36EW7QVD84oLU9OBVFLgFK",
+    "object": "chat.completion",
+    "created": 1709445605,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 26,
+        "total_tokens": 517
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Two policemen in helmets stand facing debris-strewn street; crowd in background; smoke plume in distance; urban unrest context."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

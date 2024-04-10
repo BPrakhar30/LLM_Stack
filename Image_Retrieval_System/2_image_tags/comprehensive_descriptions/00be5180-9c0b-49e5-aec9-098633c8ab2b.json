@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yCzzsxfc1fYh2cVFqxiTTRPy3GDN",
+    "object": "chat.completion",
+    "created": 1709360339,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 204,
+        "total_tokens": 496
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "In the image, there are two individuals standing on a stage, seemingly presenting or speaking at an event. They are at the center of a well-lit stage with a red circular carpet, which is characteristic of TED Talk events. The background prominently features the large, capitalized letters \"TED\" in red, which serves as the central focus behind the speakers and signifies the event as a TED conference.\n\nThe audience is seated in front of the stage, with the attendees appearing to be in shadow, suggesting that the primary lighting is directed at the stage and the speakers. The speakers seem to be interacting with each other or addressing the audience, and their posture and open gestures may indicate they are engaged in their presentation and are trying to connect with the audience.\n\nEmotions or actions are difficult to interpret from this static image without additional context such as facial expressions or speech content, but the setting implies a formal yet potentially inspiring or educational environment typical of TED events, which are known for thought-provoking talks and presentations on various topics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

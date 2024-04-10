@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBm1jbMIp68Ju8SjrjZBZjYEzqF",
+    "object": "chat.completion",
+    "created": 1709445638,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 18,
+        "total_tokens": 509
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bustling crosswalk filled with pedestrians blurred in motion, symbolizing urban life and movement."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

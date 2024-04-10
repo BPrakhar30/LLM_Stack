@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykAX8DOAnmRQxJUFTEGCR71fVdgW",
+    "object": "chat.completion",
+    "created": 1709487845,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1365,
+        "completion_tokens": 64,
+        "total_tokens": 1429
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "handwritten text cursive writing document paper historical manuscript legal content aged paper antique document script ink writing archival material faded ink legal terms official stamp blue stamp circle stamp library stamp \"35 LORD 321\" \"BIRMINGHAM MOS. 3\" \"Ch.XXIX. Queen -1435- Gild Venice.\""
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

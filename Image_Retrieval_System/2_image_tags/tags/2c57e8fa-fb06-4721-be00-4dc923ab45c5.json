@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBRyGNGBfO9fZkjJEbtgSgnbKXj",
+    "object": "chat.completion",
+    "created": 1709487901,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 300,
+        "total_tokens": 815
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "protest demonstration upheaval unrest conflict confrontation turmoil disorder chaos anarchy disturbance rally march demonstration activism resistance defiance objection uprising insurrection rebellion revolt revolution defiance opposition confrontation objection defiance resistance defiance resistance defiance confrontation defiance defiance defiance resistance defiance confrontation defiance defiance defiance confrontation defiance defiance confrontation defiance defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance defiance confrontation defiance confrontation defiance defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance defiance confrontation defiance confrontation defiance confrontation defiance defiance confrontation defiance confrontation defiance defiance confrontation defiance confrontation defiance confrontation defiance defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance defiance confrontation defiance defiance defiance confrontation defiance confrontation defiance defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance confrontation defiance"
+            },
+            "finish_reason": "length",
+            "index": 0
+        }
+    ]
+}

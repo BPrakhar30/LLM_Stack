@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD5TSuHiIT67CNMyD8GPv1bJcspv",
+    "object": "chat.completion",
+    "created": 1709360679,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 462,
+        "completion_tokens": 272,
+        "total_tokens": 734
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "This image appears to be a security or surveillance camera capture showing a street scene with two individuals walking on a sidewalk. The quality of the image is quite low, which is typical for many surveillance systems. Given the lack of clarity and information about the context, it is not possible to make out specific emotions, text, or symbols.\n\nOn the left side of the frame, there's a series of parked cars along a curb, indicating this is probably a street in an urban or suburban area. The person closest to the camera is wearing a dark jacket and lighter pants, and seems to be walking while looking down at something they are holding, which might be a mobile device. Given the posture and the focus on the hands, they might be texting or navigating with a smartphone.\n\nFurther back, there's another person dressed in lighter clothing who is walking in the same direction but appears to have a slightly faster pace as they are not looking down. There's no clear indication of the weather, time of day, or any specific location details from this image. The rest of the background is somewhat obscured due to the image resolution and compression artifacts, but it seems to be a typical city street scene without any obvious unusual activity. \n\nThe watermark \"AP\" suggests that this image may belong to the Associated Press, which is a news organization that distributes photographs among other media content."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

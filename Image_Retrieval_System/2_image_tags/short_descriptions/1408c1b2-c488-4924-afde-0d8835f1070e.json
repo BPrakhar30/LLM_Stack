@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZAsXX3L9KvtURbTGkUTT3Vk1XLS",
+    "object": "chat.completion",
+    "created": 1709445582,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 21,
+        "total_tokens": 512
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Man with joyful expression giving thumbs up on a beach, mountains in hazy background, clear daytime setting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

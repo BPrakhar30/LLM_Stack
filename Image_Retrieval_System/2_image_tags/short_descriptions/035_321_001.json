@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZALyZzy6n1OaJeWJxSiKXxnqdOw",
+    "object": "chat.completion",
+    "created": 1709445549,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1341,
+        "completion_tokens": 37,
+        "total_tokens": 1378
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Handwritten document with cursive script, some words underlined, and unique symbol-like annotations, stamped \"35 LOUD & WESTON COLL 321\", suggesting legal or historical content."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

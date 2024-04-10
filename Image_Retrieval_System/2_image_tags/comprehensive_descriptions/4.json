@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD432ATfF2QXbPxp0696d93RPZ5v",
+    "object": "chat.completion",
+    "created": 1709360591,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 216,
+        "total_tokens": 508
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image appears to be a low-resolution black-and-white CCTV or surveillance footage. There is a road with lane markings visible, and one vehicle is in the frame, captured from above, most likely by a traffic or security camera at night. The vehicle is predominantly in the lower part of the frame, reflecting some light, which makes it visible against the dark background of the road. The glare of the lights suggests that the vehicle's headlights are on.\n\nThere is an overlay on the top right corner of the image with a small gray box that includes the text \"DVD-Video\" and \"PLAY\" which indicates that the image is likely a still frame taken from a DVD video playback on some device.\n\nThere are no emotions or actions that can be discerned from the people, as there are no visible people in the scene. There are also no other symbols or discernible text in the image apart from the aforementioned overlay. The scene does not provide much context, but the lines on the road indicate that it is a section where vehicles are likely restricted to travel within the lanes marked."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

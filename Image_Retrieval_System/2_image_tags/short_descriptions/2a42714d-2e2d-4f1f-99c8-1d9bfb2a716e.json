@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZB2MRCWF79AYKO8ni0N5taLfkuv",
+    "object": "chat.completion",
+    "created": 1709445592,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 21,
+        "total_tokens": 512
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A man with a beard is standing against a yellow background, looking at the camera with a serious expression."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

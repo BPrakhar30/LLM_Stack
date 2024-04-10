@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBscrNU6dk5y3LaDqythARJUUHp",
+    "object": "chat.completion",
+    "created": 1709445644,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 28,
+        "total_tokens": 519
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Abstract art mural depicting two stylized faces in close proximity against a colorful, patterned background. The figures exhibit a calm, serene mood."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

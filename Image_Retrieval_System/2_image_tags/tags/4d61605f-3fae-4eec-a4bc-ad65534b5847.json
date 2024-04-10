@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykCEPUG9yN1kjLAegiFc3IdgyiZn",
+    "object": "chat.completion",
+    "created": 1709487950,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 56,
+        "total_tokens": 571
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "silhouette shadow-outline person individual human sunset dusk twilight sky heavens firmament sitting seated perching contemplation reflection pondering outdoor outside exterior nature environment landscape tranquility peace serenity \n\n(Note: Each set of words after the tag provides similar words or phrases that could replace the original tag.)"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

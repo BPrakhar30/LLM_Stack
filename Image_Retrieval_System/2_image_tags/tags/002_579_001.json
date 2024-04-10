@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yk9zXrZLOSLpafvQPD2FtwhnAMzQ",
+    "object": "chat.completion",
+    "created": 1709487811,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1365,
+        "completion_tokens": 24,
+        "total_tokens": 1389
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "handwritten document historical text cursive writing paper annuities mathematics calculations financial concepts vintage_stamp official_mark pageNumber(368)"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

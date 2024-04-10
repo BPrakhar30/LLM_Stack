@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykAzUOaQyBoOBbBfH6m3jpqAjGiL",
+    "object": "chat.completion",
+    "created": 1709487873,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 23,
+        "total_tokens": 538
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "street urban cityscape road vehicles cars pedestrians walking buildings architecture high-rises shops storefronts crosswalk cloudy overcast outdoor"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykADCnRu5SNM41UJP57ukfn7i1qd",
+    "object": "chat.completion",
+    "created": 1709487825,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 46,
+        "total_tokens": 561
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "stage presentation podium conference audience TEDtalks public_speaking seminar lecture event auditorium crowd presentation_speech speaker_orator presenter_lecturer communication_interaction dialogue_conversation branding_logo signage_identity red_background blue_lights lighting_illumination"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

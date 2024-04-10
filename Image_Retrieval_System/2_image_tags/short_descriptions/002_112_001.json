@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZ9VpOgAu3Vwzfzevl7JCyYVV5Fs",
+    "object": "chat.completion",
+    "created": 1709445497,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1341,
+        "completion_tokens": 39,
+        "total_tokens": 1380
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Handwritten manuscript page with red lines and annotations, stamped \"Annulled\" and \"Amherst College Library.\" Visible text regarding responsibility and accountability, dated February 17, 1840."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

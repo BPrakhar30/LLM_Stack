@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yCz4SDY2WkEE1JTyTcABVdc2g12F",
+    "object": "chat.completion",
+    "created": 1709360282,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1142,
+        "completion_tokens": 253,
+        "total_tokens": 1395
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "This image shows a single page of a handwritten document. The text is composed in English, in a script typical of the late 19th or early 20th century. Throughout the document, there appear to be portions of text that are redacted or intentionally obscured with a series of dots indicating omitted content.\n\nThe handwriting appears to be about a formal subject, potentially legal or administrative in nature. Specific topics or the context of the document's subject matter cannot be determined from the visible content.\n\nAcross the top right corner, there's a round stamp with some text within it that includes a date. The date on the stamp says \"JUL 17 '31\", which suggests that the document could be related to an event or processing date from July 17, 1931. The stamp also includes the name \"Minshull\" and possibly a location that is not fully visible due to the angle. There is cursive annotation in the margins, but it's challenging to interpret without clearer context or more of the content to reference.\n\nNo emotive content or specific actions are depicted in this image. It's purely a static display of text and handling marks, such as the office stamp and sideline annotations, indicating the document has been reviewed or processed in some manner."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

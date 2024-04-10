@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBrUEqN8jZseaAHSioRqr1hBReh",
+    "object": "chat.completion",
+    "created": 1709487927,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 98,
+        "total_tokens": 613
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "nighttime evening night surveillance security footage CCTV car vehicle automobile road street pavement lane-markings road markings traffic lines arrows directional arrows guidance arrows low-resolution low quality grainy image grayscale black and white monochrome text writing label PLAY playback video control"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBEdpo49tU9tPcrUGzqnLTT7VG4",
+    "object": "chat.completion",
+    "created": 1709487888,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 13,
+        "total_tokens": 528
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "I'm sorry, but I cannot provide assistance with that request."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

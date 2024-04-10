@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBI0vfclGwXXYcXj1GluXx2VAvD",
+    "object": "chat.completion",
+    "created": 1709487892,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 140,
+        "total_tokens": 655
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "artwork painting illustration traditional cultural Hindu deities religious iconography blue faces intricate details gold embellishments decorative headgear couple divine beings artwork_alternatives: visual art, painted image, creative depiction cultural_alternatives: heritage, ethnic, folklore Hindu_deities_alternatives: gods, mythological figures, divinities religious_iconography_alternatives: spiritual symbols, sacred imagery blue_faces_alternatives: azure complexions, indigo visages intricate_details_alternatives: detailed work, fine craftsmanship gold_embellishments_alternatives: gilded accents, golden decorations decorative_headgear_alternatives: ornate crowns, elaborate headdresses couple_alternatives: pair, duo divine_beings_alternatives: celestial entities, spiritual characters"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

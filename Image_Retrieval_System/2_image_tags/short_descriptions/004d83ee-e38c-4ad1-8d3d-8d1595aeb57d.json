@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZ9zJBVwCvIK17bGRkMcSyZShu2g",
+    "object": "chat.completion",
+    "created": 1709445527,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 22,
+        "total_tokens": 513
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Color-coded map of Texas with distinct regions labeled and a legend on the left, set against a white background."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

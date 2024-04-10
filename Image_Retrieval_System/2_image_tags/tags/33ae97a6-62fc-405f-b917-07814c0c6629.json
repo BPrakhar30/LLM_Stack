@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBkIRrTmFcSQzlBfqwlDPQmRHYE",
+    "object": "chat.completion",
+    "created": 1709487920,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 64,
+        "total_tokens": 579
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "map chart geographic representation United States USA US regions areas zones color-coded color differentiated color distinct legends keys indexes text writing inscription climate weather pattern meteorological"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

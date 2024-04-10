@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD4r2jEksqCbTWfcExGZoLx3Rmw6",
+    "object": "chat.completion",
+    "created": 1709360641,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 186,
+        "total_tokens": 478
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image shows a large crowd of people crossing what appears to be a pedestrian crosswalk. The crosswalk is characterized by the standard alternating white and asphalt stripes, and the scene suggests a busy urban environment. The people look like they are in motion, probably captured during a busy time of the day like rush hour, as the image conveys a blur of activity, which suggests movement.\n\nThe people in the image are too small and numerous to discern individual emotions or actions, and there is a motion blur effect applied to the image, which gives a sense of the hustle and bustle of city life. There is no readable text or identifiable symbols within the image from the given perspective.\n\nThe overall impression of the picture is one of dynamic urban life, with the focus on the activity and density of the crowd rather than on any individual within it. It depicts the everyday reality of a populated cityscape and the flow of pedestrians within it."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

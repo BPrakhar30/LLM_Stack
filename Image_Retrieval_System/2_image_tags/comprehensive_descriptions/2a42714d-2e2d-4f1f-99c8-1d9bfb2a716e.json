@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD2eLDPDJJbFxQI4DE3cYlpM1BG6",
+    "object": "chat.completion",
+    "created": 1709360504,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 125,
+        "total_tokens": 417
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "In the image, there is a man standing against a solid, orange-colored background. He is wearing glasses and a long-sleeved, light yellow or beige shirt. The man has a beard, and his hair is neatly styled. His expression is one of mild sadness or disappointment, with his eyebrows slightly raised and the corners of his mouth turned downward. He is looking directly at the camera, which gives the impression that he is engaging with the viewer. There are no discernible texts, symbols, or other objects in the image. It's a simple portrait with a focus on the man's facial expression and upper body."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD3Wf7Z51Hf9mT8jwKvyHkrKrvkm",
+    "object": "chat.completion",
+    "created": 1709360558,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 243,
+        "total_tokens": 535
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image shows a graphic with illustrations of various animals along with text labels. The graphic has a purple border and a white background. Above the illustrations is a title that appears to be in Japanese, followed by the English phrase \"Wild Animals Found in England.\"\n\nBelow the title are two columns of animal illustrations, each paired with a name in English. From top to bottom, the left column features:\n\n1. Red Deer labeled as \"Red Deer\"\n2. Red Fox labeled as \"Red Fox\"\n3. Roe Deer labeled as \"Roe Deer\"\n4. Badger labeled as \"Badger\"\n\nIn the right column:\n\n1. Hedgehog labeled as \"Hedgehog\"\n2. Mole labeled as \"Mole\"\n3. Rabbit labeled as \"Rabbit\"\n4. Squirrel labeled as \"Squirrel\"\n\nAdditionally, there seems to be purple frames around each set of illustrations and text. The purpose of the image appears to be educational, intended to teach the names of these wild animals in English. The illustrations are simple and realistic enough to clearly convey what each animal is. There are no emotions or actions involved as the image includes only illustrations and text, not depictions of living creatures or people."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBxZNa3onEBUyyXKlCnt6NcmwzH",
+    "object": "chat.completion",
+    "created": 1709487933,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 31,
+        "total_tokens": 546
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "artwork illustration design\ndeer animals wildlife\ntree nature foliage\npattern texture style\ncolors vibrant hues\nfolk_art traditional ethnic\nsymmetry balanced harmonious"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

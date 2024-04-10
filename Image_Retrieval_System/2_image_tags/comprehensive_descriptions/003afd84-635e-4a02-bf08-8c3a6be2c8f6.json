@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yCzhFXAnm8HXd64t6VHOKiFjbCSZ",
+    "object": "chat.completion",
+    "created": 1709360321,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 113,
+        "total_tokens": 405
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image shows a person with arms raised in an open, uplifted position against a backdrop of a clear blue sky with a few scattered clouds. The person is wearing a bright yellow top, and they appear to be smiling with closed eyes, which conveys a sense of joy, freedom, or triumph. The sun seems to be shining brightly, suggesting it might be a warm, pleasant day. The image captures a moment that suggests positivity and a carefree attitude. No text, symbols, or other identifiable objects are present in the small portion of the image visible."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

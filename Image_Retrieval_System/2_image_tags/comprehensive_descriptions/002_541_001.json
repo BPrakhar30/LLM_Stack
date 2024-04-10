@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yCzLM0M6BnzQ73AovFWdFlcBMMpB",
+    "object": "chat.completion",
+    "created": 1709360299,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1142,
+        "completion_tokens": 238,
+        "total_tokens": 1380
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "You are looking at an image of a handwritten document. The text at the top of the document states \"Ch. III. Grounds & Expectation with regard to the revelation &c of that mysterious paper.\" It appears to be outlining a series of conditions or expectations regarding a \"mysterious paper\". The text is written in cursive handwriting and includes a series of numbered points, for instance:\n\n1. \"It must meet with purchasers to take it out on the very day of issue -\"\n2. \"And that at the price proposed to be fixed upon it.\"\n\nThe handwriting is formal and expressive of its time, suggesting the document is possibly historical.\n\nAdditional writing in the margins includes what seems to be a reference or cataloguing notation, as well as a stamp or seal from an institution, which reads \"University Coll. London\" and \"Hart[ham?] MSS.\" This might indicate that the document is part of a collection or archive housed at University College London.\n\nNo emotions or actions can be discerned from this image as it is a static representation of a text document. The main purpose of this image seems to be archival or informational, possibly related to academic or historical research."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

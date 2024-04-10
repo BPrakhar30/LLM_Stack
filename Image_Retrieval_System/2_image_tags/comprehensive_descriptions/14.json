@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD1vdjyBu0lyY0bv4QPIBnYPYCDJ",
+    "object": "chat.completion",
+    "created": 1709360459,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 116,
+        "total_tokens": 408
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "This is a low-resolution and grainy black-and-white image. It appears to be a night-time surveillance or CCTV image. The photo shows a vehicle, looks like a car, driving on a road or parking area. The headlights and tail lights of the car are on, which suggests the image was possibly taken during low light conditions or at night. There are no distinct emotions or actions that can be seen due to the image's quality and the nature of the content; it is simply a car captured in motion or momentarily still. There are no discernible text or symbols present."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yCzWCG7xJlEUJPowylXOv7WDGiZy",
+    "object": "chat.completion",
+    "created": 1709360310,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1142,
+        "completion_tokens": 257,
+        "total_tokens": 1399
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image you've presented appears to be a photograph of an old document with written text. The document has a heading that reads \"Note\" and below it is a paragraph in cursive handwriting. The text discusses a consideration of mathematically calculating the distribution of fixed income and mentions a comparison between income distributed at the beginning of a period versus income distributed daily during the course of the period.\n\nThere are annotations and stamps in various places. At the top right, there is a blue circular stamp with illegible text, though the date \"July 22 1910\" is clearly visible, providing context that the document is from the early 20th century. An annotation is made in the upper right corner which appears to include \"Annuities\" and some crossed-out text that is difficult to decipher, potentially indicating the document's reference to annuities or related financial calculations. There is an additional referencing number \"Ch. VII, 386\" possibly indicating a chapter and page or paragraph number. \n\nThe document is old, as evidenced by the yellowing of the paper, which suggests age and possible historical significance. It is placed on a flat neutral background with a slight texture which might be a table or a countertop used for the purpose of showcasing the document for the photograph."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

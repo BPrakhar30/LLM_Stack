@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZ9ijJhS0e697lCoV1EFJF84fdFu",
+    "object": "chat.completion",
+    "created": 1709445510,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1341,
+        "completion_tokens": 29,
+        "total_tokens": 1370
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Historical handwritten document titled \"Grounds of Expectation with regards to the realization of Matter,\" featuring cursive script and a blue university stamp."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

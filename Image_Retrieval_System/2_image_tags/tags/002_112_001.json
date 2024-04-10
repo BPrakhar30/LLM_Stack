@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yk9cP4kr4mIfivEMg5WgFAXceEhV",
+    "object": "chat.completion",
+    "created": 1709487788,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1365,
+        "completion_tokens": 22,
+        "total_tokens": 1387
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "historical document manuscript handwriting cursive text old paper archive archival material library collection education research antique ephemera written communication"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

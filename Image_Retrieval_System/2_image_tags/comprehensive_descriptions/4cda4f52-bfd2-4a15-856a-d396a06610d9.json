@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD4j0DEkSRmlgZPZ2WkQtvFYIS8l",
+    "object": "chat.completion",
+    "created": 1709360633,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 160,
+        "total_tokens": 452
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "This image is an illustration featuring two characters that appear to be engaged in a secretive conversation. On the left, there is a character with a colorful headpiece or crown, suggesting they could be a queen or an important figure, who appears to be larger and perhaps more animated or exaggerated in expression. They have their hand covering their mouth, which is a common gesture for sharing secrets or showing surprise. The character on the right seems to be whispering into the ear of the larger character, indicative of sharing confidential information or a secret. Both characters are against a background that resembles stained glass or a fragmented pattern, which adds a stylized, possibly whimsical feel to the scene. There is no visible text or recognizable symbols in the portion of the image provided, and any further context is not directly apparent."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

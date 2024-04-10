@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykCMP93fjMTMuYju42jsK0hWIZPj",
+    "object": "chat.completion",
+    "created": 1709487958,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 685,
+        "completion_tokens": 47,
+        "total_tokens": 732
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "man_walking foreground texting smartphone street cars parked_trafficlights urban_environment surveillance_footage blurry_image low_resolution\n\nalternative tags: person_moving foreground_using_phone mobile_device city_traffic parked_vehicles signals city_setting security_camera grainy_picture poor_quality"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD4b3T0L8JdxJcqQqHF442d6a6Nx",
+    "object": "chat.completion",
+    "created": 1709360625,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 162,
+        "total_tokens": 454
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "In the image, we see a group of individuals engaged in what appears to be a social gathering or event. There are at least three women and one man visible in the foreground and middle ground, with additional people in the background. The individuals are dressed in casual to business casual attire.\n\nThe two women in the foreground are facing each other and appear to be in conversation, while the man and the third woman in the middle ground also seem to be interacting with each other. The body language and facial expressions suggest a friendly and amicable atmosphere, possibly indicating a networking event or casual professional gathering.\n\nThere are no discernible unique symbols or text in the image due to its resolution and the focus on the subjects. The overall image is imbued with a sense of camaraderie and casual communication amongst the pictured individuals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

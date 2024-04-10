@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykB4TTd0kX4FJpT5QZFQeXjynGwD",
+    "object": "chat.completion",
+    "created": 1709487878,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 72,
+        "total_tokens": 587
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "man adult male person individual facial_expression expression glasses eyewear beard facial_hair mustache moustache yellow_background colored_background neutral_expression dispassionate_face front_view head_on casual_clothing informal_attire short_hair trimmed_hair"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

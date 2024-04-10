@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD20U5IjpJIdzRf4U1niF9lKdEnu",
+    "object": "chat.completion",
+    "created": 1709360464,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 122,
+        "total_tokens": 414
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image shows a person standing on a beachfront, giving a double thumbs up towards the camera. The person appears to be male with shoulder-length curly hair, a beard, and is smiling broadly which suggests happiness or approval. He is wearing a blue shirt with the sleeves rolled up to the elbows. The background features a calm sea with a hazy outline of mountains or hills in the distance under a cloudy sky, indicating a coastal scene, possibly on an overcast day. There are no discernible texts or symbols in the image. The person's body language and facial expression convey positivity and a friendly demeanor."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

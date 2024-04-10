@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZAujXe9u9C6XbI1hm5YQ5twpFHN",
+    "object": "chat.completion",
+    "created": 1709445584,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 35,
+        "total_tokens": 526
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Monochrome surveillance footage shows an empty street at night with timestamp \"08/22/2015 08:14:02 PM\", cars parked, and no visible people."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

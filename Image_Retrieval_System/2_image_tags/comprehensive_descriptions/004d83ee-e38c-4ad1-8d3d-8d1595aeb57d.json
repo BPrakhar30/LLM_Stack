@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yCzs9buiXCL6fauRHdg20cPrZODa",
+    "object": "chat.completion",
+    "created": 1709360332,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 128,
+        "total_tokens": 420
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "This is a color-coded map of the state of Texas in the United States. Each region in the map is filled with a different color, probably indicating different areas or jurisdictions such as counties or districts within the state. To the left, there appears to be a legend correlating colors to specific regions or names, but the text is too small to read. However, no specific text, symbols, emotions, or actions are clearly discernible in the small image provided. This kind of map is typical for educational, informational, or governmental use where different areas need to be distinguished for various purposes like demographic studies, administrative planning, or electoral processes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

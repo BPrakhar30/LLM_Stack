@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZ9pzlcLVJR7LNxWsDwoAaKiY0bR",
+    "object": "chat.completion",
+    "created": 1709445517,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 28,
+        "total_tokens": 519
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A woman in a yellow shirt raises her arms joyfully towards a blue sky with a few clouds, conveying a sense of happiness and freedom."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

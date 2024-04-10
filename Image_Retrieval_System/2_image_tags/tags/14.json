@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykAqZJVT2vaE7riKyfRY5k48NgxM",
+    "object": "chat.completion",
+    "created": 1709487864,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 59,
+        "total_tokens": 574
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "vehicle automobile car night low-light darkness CCTV security camera surveillance blurry unclear indistinct black_and_white monochrome greyscale streetlights lights illumination"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBBhlHBHftjpKqRgZOkitteBNdR",
+    "object": "chat.completion",
+    "created": 1709445601,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 29,
+        "total_tokens": 520
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Traditional artwork depicting two figures with ornate headpieces and jewelry, in profile, against a dark background; style indicative of indigenous Indian art forms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBdRKYwWtH3h7XG1f3cazKc6DNR",
+    "object": "chat.completion",
+    "created": 1709445629,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 31,
+        "total_tokens": 522
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A diverse group of smiling people posing with arms raised in a gesture of joy, set against a nondescript outdoor background. They appear cheerful and friendly."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

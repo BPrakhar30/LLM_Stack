@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBNsixkBZa8EflyballgObe5Ind",
+    "object": "chat.completion",
+    "created": 1709487897,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 66,
+        "total_tokens": 581
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "fire emergency firefighter danger blaze conflagration inferno smoke fumes burning flame heat disaster catastrophe crisis response emergency_services safety_protection uniform protective_gear action urgency peril hazard danger risk peril distress alarm alert warning trouble distress.Response emergency_services safety_protection uniform protective_gear action urgency peril hazard danger risk peril distress alarm alert warning trouble distress."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

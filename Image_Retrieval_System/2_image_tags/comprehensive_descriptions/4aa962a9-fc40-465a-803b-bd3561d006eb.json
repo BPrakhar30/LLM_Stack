@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD4SRxju7vlkzWTT0ApQQ6iI5h9x",
+    "object": "chat.completion",
+    "created": 1709360616,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 138,
+        "total_tokens": 430
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image appears to capture a group of happy people. They seem to be diverse in terms of their ethnic backgrounds and are dressed in casual clothing. The people are closely gathered together, facing the camera, and some have their arms raised possibly in a gesture of excitement or celebration. They are all smiling, which suggests a moment of joy or a celebratory event. The background is not in focus, but it looks like an outdoor setting, possibly a beach or a similar open space given the hints of sand at the bottom corners of the image. There is no readable text or distinctive symbols to provide additional context. The overall mood conveyed by the image is one of happiness and togetherness."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

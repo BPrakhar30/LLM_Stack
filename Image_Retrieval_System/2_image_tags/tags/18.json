@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykB1ibaiCyYdNWrQuN9EWQfezsMS",
+    "object": "chat.completion",
+    "created": 1709487875,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 96,
+        "total_tokens": 611
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "street road avenue parked_cars stationary_vehicles parked_automobiles moving_car driving_vehicle automobile_in_motion daytime daylight light_of_day cctv_view security_camera_perspective surveillance_footage urban_setting city_environment town_scenario pavement sidewalk walkway intersection crossroads junction"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBhCenzVaxocVymo2QAz1Llheve",
+    "object": "chat.completion",
+    "created": 1709487917,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 67,
+        "total_tokens": 582
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "educational poster instructional chart learning aid wild animals wildlife animal species English text printed words written language purple background colored backdrop vibrant color illustrations drawings animal pictures educational material teaching tool study resource"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

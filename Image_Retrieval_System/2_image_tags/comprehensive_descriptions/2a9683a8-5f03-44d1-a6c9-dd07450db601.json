@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD2j57BKLz5zs2hVeXdIiZxP5RCu",
+    "object": "chat.completion",
+    "created": 1709360509,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 233,
+        "total_tokens": 525
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image shows a group of four young adults, possibly friends, celebrating and having a good time together. They appear to be outdoors at night, as indicated by the dark background which might suggest they are in an urban or street setting.\n\nFrom left to right, there are two women and two men cheering and raising their arms up in the air. The first woman, on the left, is wearing a light-colored top and shorts. Beside her, a man is wearing a dark shirt and light-colored jeans. The third person, another male, is clad in a light-colored, possibly plaid, shirt and dark pants. Lastly, the woman on the far right is wearing a white top and light-colored shorts.\n\nConfetti or petals are captured in mid-air around the group, adding to the festive atmosphere of the photograph and suggesting a celebration, party, or joyful event. There are no discernible text or symbols in the image that can be commented on.\n\nEmotionally, the group looks ecstatic and carefree, possibly dancing or just exuberantly expressing their happiness. Their body language and facial expressions indicate they are having a great time and enjoying the moment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

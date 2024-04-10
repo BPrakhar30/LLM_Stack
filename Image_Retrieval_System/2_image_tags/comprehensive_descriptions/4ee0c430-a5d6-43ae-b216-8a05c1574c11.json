@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD56TLBsvMg8hWhLnqqHTTGGQwVB",
+    "object": "chat.completion",
+    "created": 1709360656,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 137,
+        "total_tokens": 429
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "In the image, there's an artwork depicting two stylized faces close to each other in a manner suggesting an intimate moment such as a kiss or a whisper. The artwork seems to have an African-inspired theme, given by the facial features, the art style, and the adornments. The faces are rendered in a palette of greys, browns, and blacks, with rustic orange and gold elements. The subjects portray calm and affectionate emotions. Their eyes are closed, enhancing the sense of intimacy between them.\n\nThere are no clear texts or symbols that are legible in the image, and the rest of the context is limited to what's visible within the frame of the artwork."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZ9nnkovO7pr3TRJAKKi9I2gzApX",
+    "object": "chat.completion",
+    "created": 1709445515,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1341,
+        "completion_tokens": 24,
+        "total_tokens": 1365
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "This is an image of a handwritten document with a blue circular stamp in the upper right corner and text discussing income calculations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

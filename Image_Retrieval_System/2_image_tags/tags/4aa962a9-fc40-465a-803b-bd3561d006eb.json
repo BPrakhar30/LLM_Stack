@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykC1ko3iHr8pZTJGsIV4a6TdcYL2",
+    "object": "chat.completion",
+    "created": 1709487937,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 30,
+        "total_tokens": 545
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "group gathering celebration friends joy happiness beach outdoor smiling camaraderie togetherness diverse multicultural casual_clothing daylight fun cheerful enthusiastic excited lively spirited vibrant"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBb1wvGcS8vBz0Yd1PtUuwbByyV",
+    "object": "chat.completion",
+    "created": 1709445627,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 26,
+        "total_tokens": 517
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Two stylized deer, one blue and one brown, stand facing a colorful tree with extensive foliage, set against a plain background."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

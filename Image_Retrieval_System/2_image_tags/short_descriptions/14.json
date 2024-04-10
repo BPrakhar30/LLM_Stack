@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZApb1UFZy4tvzTh5E5qGKA9GtGx",
+    "object": "chat.completion",
+    "created": 1709445579,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 24,
+        "total_tokens": 515
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Monochrome surveillance image capturing a vehicle at night from an elevated angle, headlights on, with no distinguishable background details."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

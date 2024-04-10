@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD3LRy3h643cWmQwovZ85kxgMpdw",
+    "object": "chat.completion",
+    "created": 1709360547,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 226,
+        "total_tokens": 518
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image is in black and white and shows a street scene that appears to be tense and possibly violent. In the foreground, two individuals who seem to be law enforcement officers based on their attire are standing with their backs to the camera. They are wearing helmets, suggesting they are prepared for a riot or disorderly situation.\n\nIn the middle ground, a solitary figure is lying on the ground while another is crouched nearby. It's unclear from the context whether these individuals are injured, resting, or possibly involved in an altercation.\n\nThe background of the image shows a group of bystanders or possibly protesters on the sidewalk. There's a general sense of chaos in the scene, as indicated by debris scattered on the road and the presence of smoke or fire further down the street. Shop signs and street signs are visible, but without more context or clear text, it's difficult to ascertain the precise location or the identity of the shops. The actions depicted suggest a disruptive event, possibly a riot or a confrontation between civilians and law enforcement. The emotions in the image can be interpreted as tense, perhaps indicating fear, anxiety, or distress."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

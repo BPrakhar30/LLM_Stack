@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBLuyLd2F2oHn3wmfYgjEwupjvs",
+    "object": "chat.completion",
+    "created": 1709445611,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 30,
+        "total_tokens": 521
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Educational poster displaying various wild animals with their names in English, including a tiger, elephant, and lion, among others, against a purple background."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

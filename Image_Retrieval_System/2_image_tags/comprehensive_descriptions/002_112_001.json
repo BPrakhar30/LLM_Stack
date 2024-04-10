@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yCyoseqBL7fr4v5e3BmhzpXZvHRK",
+    "object": "chat.completion",
+    "created": 1709360266,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1142,
+        "completion_tokens": 217,
+        "total_tokens": 1359
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "This image displays a historic document written in cursive handwriting. The document appears to be a page from a ledger or official record, as evidenced by the numbered lines and structured layout. A red vertical line borders the main body of text on the left-hand side.\n\nThe text outlines procedures or principles related to the responsibility and accountability of individuals operating specific equipment or instruments, mentioning signatures, deputies, and the importance of guarding against falsification or counterfeiting. It emphasizes the safeguarding of official names and the need for vigilant oversight.\n\nThere are annotations in the upper right-hand corner of the page, indicating that the document might have been part of a collection or archive, possibly designated for annual review, as suggested by the words \"Annually coll &c\" and a date stamp that reads \"12 APR 1912.\" There are additional handwritten notes beside the date stamp that are partly visible and mention something about an act and a name, although the full context is not clear.\n\nThe document seems to have historical value and reflects administrative practices of record-keeping and accountability from an earlier time period."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

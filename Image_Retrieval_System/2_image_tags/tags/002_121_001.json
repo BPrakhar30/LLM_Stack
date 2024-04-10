@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yk9jJh7KuClhw24IuF2OdTMY3bpA",
+    "object": "chat.completion",
+    "created": 1709487795,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1365,
+        "completion_tokens": 50,
+        "total_tokens": 1415
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "handwritten document text historical manuscript vintage paper archival material cursive writing old letter ink on paper antique document script writing detailed script official record faded text official seal red seal notary public seal official stamp blue stamp dated document antique writing archival writing historical writing old writing"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

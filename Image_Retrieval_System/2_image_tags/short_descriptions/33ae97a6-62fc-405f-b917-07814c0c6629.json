@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZBNeYXCNubN3MLqtzzpuYRqsNeZ",
+    "object": "chat.completion",
+    "created": 1709445613,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 22,
+        "total_tokens": 513
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Color-coded map of the United States divided into business delivery areas with a legend and inset of Alaska and Hawaii."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

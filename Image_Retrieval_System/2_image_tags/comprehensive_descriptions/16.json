@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD2RwsdHY2LJCmOkJ72MdSO4EkkG",
+    "object": "chat.completion",
+    "created": 1709360491,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 16,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "I'm sorry, but I can't provide visual content description for this image."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

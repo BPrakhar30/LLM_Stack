@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZANjgXQt20qp5FonNahfGzLag7l",
+    "object": "chat.completion",
+    "created": 1709445551,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 24,
+        "total_tokens": 515
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Two bear cubs stand upright facing each other in a playful stance on a gravel surface, with a blurred green background."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD1Jjgrc7PFJfp0efK3Jcjs80VUZ",
+    "object": "chat.completion",
+    "created": 1709360421,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1142,
+        "completion_tokens": 226,
+        "total_tokens": 1368
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image shows an open book or document with handwritten text. The top of the page is labeled with a letter 'C' followed by a section header: \"Of Simple Personal Injuries.\" The text appears to be a legal or medical manuscript, discussing what constitutes a personal injury and the context in which harm may occur. Specific references are made to nonconsensual action toward an individual, making someone suffer from pain or weariness by overwork or labor, and the liability for causing such harm.\n\nThe note at the bottom concerns what appears to be legal considerations or possible exceptions related to occupations that are inheritably dangerous (\"Laws relative to...\") and discusses how harm in such cases might be considered from a legal standpoint, such as in cases of gunpowder manufacturing, turpentine distilling, and others.\n\nOverall, the manuscript details scenarios for assessing personal injury claims and tort law, with a focus on intent and situations where harm might occur due to the nature of certain professions. It is written in a formal and organized manner, indicative of legal scholarship of previous centuries, given the style of handwriting and the paper's aging."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykAjsJLv3qQNxgI3rhd3FD21PRZD",
+    "object": "chat.completion",
+    "created": 1709487857,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1365,
+        "completion_tokens": 32,
+        "total_tokens": 1397
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "handwritten manuscript historical document calligraphy cursive text old paper antique script faded ink vintage legal text legal document archive archival material manuscript page book page written text historical record"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

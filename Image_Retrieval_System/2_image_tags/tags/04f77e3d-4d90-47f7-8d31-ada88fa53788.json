@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykAaFU0w3ewSpHAzJEbZylewiVqf",
+    "object": "chat.completion",
+    "created": 1709487848,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 40,
+        "total_tokens": 555
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "bear-cubs playfulness playful juvenile-animals young-animals nature wildlife natural-habitat forest-landscape animal-interaction interaction-engagement playful-behavior playful-activity outdoors exterior environment greenery vegetation"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

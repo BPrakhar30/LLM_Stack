@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZAzDavqd3rnVEzZnRuCjmnRb75F",
+    "object": "chat.completion",
+    "created": 1709445589,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 24,
+        "total_tokens": 515
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Overhead view of an intersection with cars, including a parked car in the foreground; no clear text or logos visible."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZByBm469XKoCVZcx4AzyiKRHMxO",
+    "object": "chat.completion",
+    "created": 1709445650,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 661,
+        "completion_tokens": 24,
+        "total_tokens": 685
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A person is walking on a sidewalk looking at their phone, with parked cars lining the road and another person behind them."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

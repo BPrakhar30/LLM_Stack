@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykCA3uU0zODfDCI6Rba4d63S5rHb",
+    "object": "chat.completion",
+    "created": 1709487946,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 70,
+        "total_tokens": 585
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "pedestrians walkers people crowd crossing crosswalk intersection zebra crossing city urban downtown metropolis motion blur movement speed blur busy crowded hectic bustling street photography urban scene city life street capture daytime daylight outside outdoor"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

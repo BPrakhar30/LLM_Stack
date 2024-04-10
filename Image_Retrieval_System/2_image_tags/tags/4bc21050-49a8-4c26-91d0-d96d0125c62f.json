@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykC3zy3kmVjCoCHCWeqttlnnXO4k",
+    "object": "chat.completion",
+    "created": 1709487939,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 47,
+        "total_tokens": 562
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "people socializing networking interaction meeting group conversing chatting talking crowd gathering assembly audience indoor room interior space facility hall event occasion function seminar conference venue blurry background indistinct backdrop vague setting casual clothing attire wear fashion smiling happy cheerful jovial content pleased"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

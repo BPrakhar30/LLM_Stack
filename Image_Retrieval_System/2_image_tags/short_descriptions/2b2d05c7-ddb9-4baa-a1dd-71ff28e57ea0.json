@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yZB6bxJiy0xtL1fkNuhSdFa56knV",
+    "object": "chat.completion",
+    "created": 1709445596,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 22,
+        "total_tokens": 513
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Three profile cards depicting different individuals with likes and comments; obscured faces for privacy, set against a simple background."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

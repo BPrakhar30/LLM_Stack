@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykBGp7vTf9CVYSreaVHpQOCGDSm7",
+    "object": "chat.completion",
+    "created": 1709487890,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 19,
+        "total_tokens": 534
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "person sitting contemplation silhouette bench gazebo park trees black_and_white monochrome solitude peaceful quiet calm"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

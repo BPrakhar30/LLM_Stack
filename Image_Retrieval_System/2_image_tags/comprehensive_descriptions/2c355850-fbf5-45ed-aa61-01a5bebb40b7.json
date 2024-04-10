@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8yD3DxJponoBe2BWakE4Pre4V51Rj",
+    "object": "chat.completion",
+    "created": 1709360539,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 186,
+        "total_tokens": 478
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The image depicts a chaotic scene with a fire. There is a person centrally located who appears to be moving away from the flames. Their specific emotions or actions are difficult to determine from this angle, but the person might be in a state of retreat or escape from the hazard. On the right side of the image, a figure wearing a high-visibility jacket resembling typical protective gear worn by emergency services personnel is observing the situation, potentially assessing it or preparing to act.\n\nThere are multiple sources of fire in the image, creating a hazardous environment. The flames are bright and intense, suggesting the fire is not yet under control. There are no clear textual elements or recognizable symbols in the image. The context or the cause of the fire is not discernible from the photo, nor can the location or the time of the event be determined.\n\nOverall, the scene conveys urgency and danger, with individuals in proximity to an uncontrolled fire."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

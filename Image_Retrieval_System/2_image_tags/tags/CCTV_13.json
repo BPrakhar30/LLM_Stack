@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8ykCJ68HynKJt3779e4y3sn0gJqKE",
+    "object": "chat.completion",
+    "created": 1709487955,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 515,
+        "completion_tokens": 68,
+        "total_tokens": 583
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "person_walking individual_strolling figure_moving building_entrance structure_access edifice_gateway pavement sidewalk walkway black_and_white monochrome grayscale solitary_figure single_person lone_individual urban_setting city_environment town_background"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
