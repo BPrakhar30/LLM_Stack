@@ -27,7 +27,7 @@ Each subproject has its own dependencies. Typical setup:
 
 ```bash
 cd "Q&A Chatbot USing LLM"
-cp .env.example .env   # add your API keys locally — never commit .env
+cp .env.example .env   # add your API keys locally  -  never commit .env
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -36,9 +36,9 @@ streamlit run app.py
 
 ## Why this repo
 
-Useful as a **reference library** for common LLM patterns: document Q&A, summarization, prompt engineering, and retrieval — before graduating to production stacks like PydanticAI + MCP.
+Useful as a **reference library** for common LLM patterns: document Q&A, summarization, prompt engineering, and retrieval  -  before graduating to production stacks like PydanticAI + MCP.
 
 ## Related
 
-- [Robinhood AI Portfolio Copilot](https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer) — production agent architecture
-- [YouTube Video Summarizer](https://github.com/BPrakhar30/youtube-video-summarizer) — video summarization app
+- [Robinhood AI Portfolio Copilot](https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer)  -  production agent architecture
+- [YouTube Video Summarizer](https://github.com/BPrakhar30/youtube-video-summarizer)  -  video summarization app
