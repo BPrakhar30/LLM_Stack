@@ -27,10 +27,12 @@ Each subproject has its own dependencies. Typical setup:
 
 ```bash
 cd "Q&A Chatbot USing LLM"
+cp .env.example .env   # add your API keys locally — never commit .env
 pip install -r requirements.txt
-# Add OPENAI_API_KEY to .env
 streamlit run app.py
 ```
+
+> **Security:** `.env` files, virtualenvs, and API keys must stay local. See `.env.example` for required variables.
 
 ## Why this repo
 
